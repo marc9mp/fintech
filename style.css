@@ -1,0 +1,12 @@
+body{
+    background: #0c0ce94d;
+}
+
+.Enviar-button button{
+    background-color:#6c63ff ;
+    width: 100%;
+    border-radius: 5px;
+    cursor: pointer;
+    border: none;
+    padding: 1 rem;
+}
